@@ -28,6 +28,14 @@
       <artifactId>commons-lang3</artifactId>
       <version>3.0</version>
     </dependency>
+    <dependency>
+      <groupId>com.examole</groupId>
+      <artifactId>import-dependency-project</artifactId>
+      <version>1.0.0</version>
+      <scope>system</scope>
+      <systemPath>${project.basedir}/../libs/import-dependency-project-1.0-SNAPSHOT.jar</systemPath>
+    </dependency>
+
   </dependencies>
 
   <build>
