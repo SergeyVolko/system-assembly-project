@@ -1,0 +1,5 @@
+# Default ignored files
+/my-bazel-project/bazel-*
+.idea/
+my-bazel-project.iml
+progects-systems-assembly.iml
